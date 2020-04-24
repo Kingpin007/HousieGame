@@ -1,0 +1,3 @@
+public enum PlayerStatus {
+    ROW1,ROW2,ROW3,ROW1ROW2,ROW1ROW3,ROW2ROW3,PLAYING,WINNER;
+}
